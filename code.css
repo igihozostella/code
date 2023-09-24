@@ -1,0 +1,31 @@
+.image{
+margin-left: 40%;
+margin-right: 60%;
+margin-top: 50px;
+border-radius: 15px;
+background: #fcfcfc;
+width:260px;
+padding-bottom:20px;
+padding-left: 8px;
+padding-right: 5px;
+background-color: rgb(236, 236, 236);
+}
+.img{
+width:240px;
+height:250px;
+object-fit:inherit;
+padding-left: 7px;
+padding-right:7px ;
+padding-top: 10px;
+padding-bottom: 10px;
+align-items: center;
+border-radius: 20px;
+}
+body{
+    background-color: rgb(214, 238, 250) ;
+}
+.p{
+    font-size: 15px;
+    font-weight: 700 ;
+    font-family: sans-serif;
+}
